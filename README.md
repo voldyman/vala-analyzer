@@ -1,4 +1,12 @@
-vala-analyzer
+Vala Analyzer
 =============
 
-Analyzes Vala source files to check for coding conventions
+This script analyzes Vala source files to check for elementary OS coding conventions.
+
+Usage
+-----
+
+```shell
+chmod +x review.py
+./review.py MyFile.vala
+```
